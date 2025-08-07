@@ -29,7 +29,7 @@ This repository showcases **real IT automation** that saves time and reduces err
 
 ### Clone and Test
 ```bash
-git clone https://github.com/yourusername/it-support-automation-scripts.git
+git clone https://github.com/SoftwareChoreographer/IT-Support-Automation-Scripts.git
 cd it-support-automation-scripts
 
 # Test network repair (safe to run)
