@@ -1,0 +1,38 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250909015847
+Username: LUMINA\rhain
+RunAs User: LUMINA\rhain
+Configuration Name: 
+Machine: LUMINA (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\rhain\.vscode\extensions\ms-vscode.powershell-2025.2.0\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2025.2.0' -BundledModulesPath 'c:\Users\rhain\.vscode\extensions\ms-vscode.powershell-2025.2.0\modules' -EnableConsoleRepl -StartupBanner "PowerShell Extension v2025.2.0
+Copyright (c) Microsoft Corporation.
+
+https://aka.ms/vscode-powershell
+Type 'help' to get help.
+" -LogLevel 'Warning' -LogPath 'c:\Users\rhain\AppData\Roaming\Code\logs\20250908T232923\window1\exthost\ms-vscode.powershell' -SessionDetailsPath 'c:\Users\rhain\AppData\Roaming\Code\User\globalStorage\ms-vscode.powershell\sessions\PSES-VSCode-12944-850976.json' -FeatureFlags @() 
+Process ID: 20840
+PSVersion: 5.1.26100.4768
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.4768
+BuildVersion: 10.0.26100.4768
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\rhain\user_management_logs\user_management_Enable_20250909_015847.log
+User Account Management Utility
+==========================================
+Enabled user: jsmith
+
+==========================================
+OPERATION SUMMARY
+==========================================
+Action: Enable
+Processed: 1 of 1
+Log file: C:\Users\rhain\user_management_logs\user_management_Enable_20250909_015847.log
+**********************
+Windows PowerShell transcript end
+End time: 20250909015847
+**********************

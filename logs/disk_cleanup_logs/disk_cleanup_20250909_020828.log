@@ -1,0 +1,139 @@
+2025-09-09 02:08:28,020 - INFO - Disk Cleanup Utility Initialized
+2025-09-09 02:08:28,023 - INFO - Log file: C:\Users\rhain\disk_cleanup_logs\disk_cleanup_20250909_020828.log
+2025-09-09 02:08:28,196 - INFO - ============================================================
+2025-09-09 02:08:28,197 - INFO - DISK CLEANUP UTILITY - STARTED
+2025-09-09 02:08:28,197 - INFO - ============================================================
+2025-09-09 02:08:28,202 - INFO - platform: Windows
+2025-09-09 02:08:28,203 - INFO - platform_release: 11
+2025-09-09 02:08:28,204 - INFO - platform_version: 10.0.26100
+2025-09-09 02:08:28,211 - INFO - architecture: AMD64
+2025-09-09 02:08:28,211 - INFO - username: rhain
+2025-09-09 02:08:28,212 - INFO - python_version: 3.13.3 (tags/v3.13.3:6280bb5, Apr  8 2025, 14:47:33) [MSC v.1943 64 bit (AMD64)]
+2025-09-09 02:08:28,212 - INFO - script_directory: C:\Users\rhain\IT-Support-Automation-Scripts\scripts
+2025-09-09 02:08:28,213 - INFO - current_working_directory: C:\Users\rhain\IT-Support-Automation-Scripts\scripts
+2025-09-09 02:08:28,213 - INFO - Dry run mode: Yes
+2025-09-09 02:08:28,214 - INFO - ============================================================
+2025-09-09 02:08:28,217 - INFO - Found 3 safe cleanup targets
+2025-09-09 02:08:28,232 - INFO - Processing: C:\Users\rhain\AppData\Local\Temp (Size: 211.38 MB)
+2025-09-09 02:08:28,234 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\07323355-757e-4195-948f-00a04ce12c32.tmp (400.00 KB)
+2025-09-09 02:08:28,237 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\08f1d4ed-138e-4b7e-a155-9e74e2215b0c_224698518 RAQ Nkosi.7z.b0c (2.08 KB)
+2025-09-09 02:08:28,241 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\0b32c911-ccf0-463f-85e3-345a299a7fdd.tmp (0 B)
+2025-09-09 02:08:28,243 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\10168618-cbb6-4857-8663-2dc119ea2e0e.tmp (1.27 MB)
+2025-09-09 02:08:28,245 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\11581de8-eddf-49c1-a632-dfa7936bb60d.tmp (78.66 KB)
+2025-09-09 02:08:28,246 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\2293c7c7-fe09-48f3-868b-9449bf56d06f.tmp (0 B)
+2025-09-09 02:08:28,248 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\229fcf39-a931-4430-9daf-70b9347d1e62_224698518 RAQ Nkosi.7z.e62 (1.71 KB)
+2025-09-09 02:08:28,249 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\2323c9b0-1036-4085-b085-74cfffb4753d.tmp (1.96 MB)
+2025-09-09 02:08:28,251 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\33a1e318-bd22-4a7f-b618-96a52b9f4289.tmp (571.77 KB)
+2025-09-09 02:08:28,254 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\38ad01b6-e3f2-448a-8a8f-1ff382057306.tmp (0 B)
+2025-09-09 02:08:28,257 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\3aba10e2-250e-4f3e-bf91-b2c154b42b96.tmp (30.06 KB)
+2025-09-09 02:08:28,258 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\406798fb-5878-46c6-ae43-23b703aa9512.tmp (6.39 MB)
+2025-09-09 02:08:28,260 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\406f0f86-31cd-4b4c-b06e-0c198455a9d4_IT-Support-Automation-Scripts.zip.9d4 (7.02 KB)
+2025-09-09 02:08:28,263 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\4f9e8c56-05f9-4ed9-9419-497e64ba1a4e.tmp (15.75 MB)
+2025-09-09 02:08:28,265 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\50a0f88d-992d-4e88-bb8a-ae3dd607ba6c_IT-Support-Automation-Scripts.zip.a6c (53.00 B)
+2025-09-09 02:08:28,267 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\5466fb46-cb5d-4442-a5b7-6a698902c873_IT-Support-Automation-Scripts.zip.873 (7.02 KB)
+2025-09-09 02:08:28,268 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\5976cae4-7ccd-4c26-9133-7e0a5d9ee702.tmp (850.86 KB)
+2025-09-09 02:08:28,271 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6039d2a8-2fbe-4b9d-961d-3d0fbf232126.tmp (35.62 KB)
+2025-09-09 02:08:28,275 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6328290c-904b-4e56-a24e-d5a48b7a71e6.tmp (35.16 KB)
+2025-09-09 02:08:28,276 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6855b0e4-02fd-454c-802b-a88e5376110a.tmp (139.00 KB)
+2025-09-09 02:08:28,278 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6bbc8b65-4d07-4769-9427-aa017a4d5412.tmp (15.05 MB)
+2025-09-09 02:08:28,280 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6ccb1c91-1030-4a20-935d-39839a61ab5c.tmp (3.28 MB)
+2025-09-09 02:08:28,281 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\7d2f983e-733d-48ff-87ef-34b332ddb8d2.tmp (1.32 MB)
+2025-09-09 02:08:28,282 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\82c3be17-e404-44b0-a9fb-e0dac4e11677.tmp (494.76 KB)
+2025-09-09 02:08:28,284 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\87fbe164-2b43-4f54-8f8e-a80265f512a5_IT-Support-Automation-Scripts.zip.2a5 (23.00 B)
+2025-09-09 02:08:28,288 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\886a3336-3f2b-4848-b41b-650c566ee222_IT-Support-Automation-Scripts.zip.222 (32.00 B)
+2025-09-09 02:08:28,291 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\8ca412a0-ed34-48c5-a35e-7763564326c8.tmp (4.61 MB)
+2025-09-09 02:08:28,292 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\9b383c51-0ecc-4760-bafe-b74ba207bfcc.tmp (568.60 KB)
+2025-09-09 02:08:28,294 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\9ea1c8b4-a3ba-4ce4-8fa2-230b1a72a637.tmp (1.02 MB)
+2025-09-09 02:08:28,296 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\a1e34eb2-559a-4fa0-87d1-0d7607c566b7.tmp (967.29 KB)
+2025-09-09 02:08:28,297 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\a1f2310c-3e6d-4882-b5a2-acda2e5fbbfd.tmp (3.05 MB)
+2025-09-09 02:08:28,298 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\acd46582-b953-4e43-a847-b4d436817383.tmp (10.99 MB)
+2025-09-09 02:08:28,299 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\b771f76e-fb7b-4928-993d-fbc93c5dbb16.tmp (7.03 MB)
+2025-09-09 02:08:28,301 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\b9aa8f34-d96d-4346-aa6d-9d9ea273d882_DBP316D.zip.882 (512.71 KB)
+2025-09-09 02:08:28,304 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\bae887e9-dab4-447e-86b6-a9779dad94b1.tmp (5.72 MB)
+2025-09-09 02:08:28,307 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\bccb4c25-d70f-4757-8113-7955ff2d2f6d.tmp (20.18 KB)
+2025-09-09 02:08:28,310 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\bddea59c-62a6-4695-aa9d-7ee18cea6578_IT-Support-Automation-Scripts.zip.578 (22.00 B)
+2025-09-09 02:08:28,311 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\bfa1ae3d-4d8c-4ac1-a241-78e1006ee500.tmp (282.20 KB)
+2025-09-09 02:08:28,315 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\d1e94338-bcee-47d0-a990-c59cebd68121_DBP316D.zip.121 (409.50 KB)
+2025-09-09 02:08:28,317 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\d578ed7b-18eb-4ab1-a759-ab248f929d41_DBP316D.zip.d41 (404.50 KB)
+2025-09-09 02:08:28,319 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\d713525a-9850-4bde-ac4d-c232e42284b8.tmp (3.61 MB)
+2025-09-09 02:08:28,323 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\d86fbd59-8893-4fdd-b779-437c7b72f148_DBP316D.zip.148 (562.06 KB)
+2025-09-09 02:08:28,325 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\dc5846fd-5023-4cc5-9a0e-e23038331cdd.tmp (0 B)
+2025-09-09 02:08:28,326 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\dd96e24d-dc3d-4ab7-b68d-8b8847a75c9f.tmp (254.60 KB)
+2025-09-09 02:08:28,329 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\e25ebabb-4cac-4ffb-9d5b-eafa168780c3.tmp (160.45 KB)
+2025-09-09 02:08:28,330 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\e34bd0a4-3782-4c2b-8e3c-7e78d945edc5.tmp (5.46 MB)
+2025-09-09 02:08:28,331 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\e614d767-65ec-4f3e-9da7-db88d7037a24_DBP316D.zip.a24 (560.38 KB)
+2025-09-09 02:08:28,334 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\eda7e8d9-fd3a-49d8-8053-e2e3938e7a75.tmp (249.66 KB)
+2025-09-09 02:08:28,336 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\f99cd612-edff-4847-a8a8-1d4047d6a3f7.tmp (2.98 MB)
+2025-09-09 02:08:28,339 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\is-L8U5N.tmp (3.33 MB)
+2025-09-09 02:08:28,342 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\Setup Log 2025-09-08 #001.txt (1.55 MB)
+2025-09-09 02:08:28,343 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\vscode-stable-user-x64 (109.57 MB)
+2025-09-09 02:08:28,354 - INFO - Freed from C:\Users\rhain\AppData\Local\Temp: 0 B
+2025-09-09 02:08:28,365 - INFO - Processing: C:\Users\rhain\AppData\Local\Temp (Size: 211.38 MB)
+2025-09-09 02:08:28,367 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\07323355-757e-4195-948f-00a04ce12c32.tmp (400.00 KB)
+2025-09-09 02:08:28,373 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\08f1d4ed-138e-4b7e-a155-9e74e2215b0c_224698518 RAQ Nkosi.7z.b0c (2.08 KB)
+2025-09-09 02:08:28,376 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\0b32c911-ccf0-463f-85e3-345a299a7fdd.tmp (0 B)
+2025-09-09 02:08:28,377 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\10168618-cbb6-4857-8663-2dc119ea2e0e.tmp (1.27 MB)
+2025-09-09 02:08:28,379 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\11581de8-eddf-49c1-a632-dfa7936bb60d.tmp (78.66 KB)
+2025-09-09 02:08:28,380 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\2293c7c7-fe09-48f3-868b-9449bf56d06f.tmp (0 B)
+2025-09-09 02:08:28,383 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\229fcf39-a931-4430-9daf-70b9347d1e62_224698518 RAQ Nkosi.7z.e62 (1.71 KB)
+2025-09-09 02:08:28,384 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\2323c9b0-1036-4085-b085-74cfffb4753d.tmp (1.96 MB)
+2025-09-09 02:08:28,386 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\33a1e318-bd22-4a7f-b618-96a52b9f4289.tmp (571.77 KB)
+2025-09-09 02:08:28,391 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\38ad01b6-e3f2-448a-8a8f-1ff382057306.tmp (0 B)
+2025-09-09 02:08:28,392 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\3aba10e2-250e-4f3e-bf91-b2c154b42b96.tmp (30.06 KB)
+2025-09-09 02:08:28,395 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\406798fb-5878-46c6-ae43-23b703aa9512.tmp (6.39 MB)
+2025-09-09 02:08:28,398 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\406f0f86-31cd-4b4c-b06e-0c198455a9d4_IT-Support-Automation-Scripts.zip.9d4 (7.02 KB)
+2025-09-09 02:08:28,400 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\4f9e8c56-05f9-4ed9-9419-497e64ba1a4e.tmp (15.75 MB)
+2025-09-09 02:08:28,404 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\50a0f88d-992d-4e88-bb8a-ae3dd607ba6c_IT-Support-Automation-Scripts.zip.a6c (53.00 B)
+2025-09-09 02:08:28,409 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\5466fb46-cb5d-4442-a5b7-6a698902c873_IT-Support-Automation-Scripts.zip.873 (7.02 KB)
+2025-09-09 02:08:28,411 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\5976cae4-7ccd-4c26-9133-7e0a5d9ee702.tmp (850.86 KB)
+2025-09-09 02:08:28,413 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6039d2a8-2fbe-4b9d-961d-3d0fbf232126.tmp (35.62 KB)
+2025-09-09 02:08:28,416 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6328290c-904b-4e56-a24e-d5a48b7a71e6.tmp (35.16 KB)
+2025-09-09 02:08:28,418 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6855b0e4-02fd-454c-802b-a88e5376110a.tmp (139.00 KB)
+2025-09-09 02:08:28,422 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6bbc8b65-4d07-4769-9427-aa017a4d5412.tmp (15.05 MB)
+2025-09-09 02:08:28,426 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\6ccb1c91-1030-4a20-935d-39839a61ab5c.tmp (3.28 MB)
+2025-09-09 02:08:28,428 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\7d2f983e-733d-48ff-87ef-34b332ddb8d2.tmp (1.32 MB)
+2025-09-09 02:08:28,431 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\82c3be17-e404-44b0-a9fb-e0dac4e11677.tmp (494.76 KB)
+2025-09-09 02:08:28,434 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\87fbe164-2b43-4f54-8f8e-a80265f512a5_IT-Support-Automation-Scripts.zip.2a5 (23.00 B)
+2025-09-09 02:08:28,436 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\886a3336-3f2b-4848-b41b-650c566ee222_IT-Support-Automation-Scripts.zip.222 (32.00 B)
+2025-09-09 02:08:28,441 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\8ca412a0-ed34-48c5-a35e-7763564326c8.tmp (4.61 MB)
+2025-09-09 02:08:28,443 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\9b383c51-0ecc-4760-bafe-b74ba207bfcc.tmp (568.60 KB)
+2025-09-09 02:08:28,445 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\9ea1c8b4-a3ba-4ce4-8fa2-230b1a72a637.tmp (1.02 MB)
+2025-09-09 02:08:28,447 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\a1e34eb2-559a-4fa0-87d1-0d7607c566b7.tmp (967.29 KB)
+2025-09-09 02:08:28,449 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\a1f2310c-3e6d-4882-b5a2-acda2e5fbbfd.tmp (3.05 MB)
+2025-09-09 02:08:28,450 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\acd46582-b953-4e43-a847-b4d436817383.tmp (10.99 MB)
+2025-09-09 02:08:28,451 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\b771f76e-fb7b-4928-993d-fbc93c5dbb16.tmp (7.03 MB)
+2025-09-09 02:08:28,458 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\b9aa8f34-d96d-4346-aa6d-9d9ea273d882_DBP316D.zip.882 (512.71 KB)
+2025-09-09 02:08:28,460 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\bae887e9-dab4-447e-86b6-a9779dad94b1.tmp (5.72 MB)
+2025-09-09 02:08:28,463 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\bccb4c25-d70f-4757-8113-7955ff2d2f6d.tmp (20.18 KB)
+2025-09-09 02:08:28,465 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\bddea59c-62a6-4695-aa9d-7ee18cea6578_IT-Support-Automation-Scripts.zip.578 (22.00 B)
+2025-09-09 02:08:28,467 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\bfa1ae3d-4d8c-4ac1-a241-78e1006ee500.tmp (282.20 KB)
+2025-09-09 02:08:28,472 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\d1e94338-bcee-47d0-a990-c59cebd68121_DBP316D.zip.121 (409.50 KB)
+2025-09-09 02:08:28,475 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\d578ed7b-18eb-4ab1-a759-ab248f929d41_DBP316D.zip.d41 (404.50 KB)
+2025-09-09 02:08:28,477 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\d713525a-9850-4bde-ac4d-c232e42284b8.tmp (3.61 MB)
+2025-09-09 02:08:28,480 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\d86fbd59-8893-4fdd-b779-437c7b72f148_DBP316D.zip.148 (562.06 KB)
+2025-09-09 02:08:28,482 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\dc5846fd-5023-4cc5-9a0e-e23038331cdd.tmp (0 B)
+2025-09-09 02:08:28,483 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\dd96e24d-dc3d-4ab7-b68d-8b8847a75c9f.tmp (254.60 KB)
+2025-09-09 02:08:28,484 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\e25ebabb-4cac-4ffb-9d5b-eafa168780c3.tmp (160.45 KB)
+2025-09-09 02:08:28,489 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\e34bd0a4-3782-4c2b-8e3c-7e78d945edc5.tmp (5.46 MB)
+2025-09-09 02:08:28,492 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\e614d767-65ec-4f3e-9da7-db88d7037a24_DBP316D.zip.a24 (560.38 KB)
+2025-09-09 02:08:28,494 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\eda7e8d9-fd3a-49d8-8053-e2e3938e7a75.tmp (249.66 KB)
+2025-09-09 02:08:28,497 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\f99cd612-edff-4847-a8a8-1d4047d6a3f7.tmp (2.98 MB)
+2025-09-09 02:08:28,498 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\is-L8U5N.tmp (3.33 MB)
+2025-09-09 02:08:28,499 - INFO - Would remove file: C:\Users\rhain\AppData\Local\Temp\Setup Log 2025-09-08 #001.txt (1.55 MB)
+2025-09-09 02:08:28,502 - INFO - Would remove directory: C:\Users\rhain\AppData\Local\Temp\vscode-stable-user-x64 (109.57 MB)
+2025-09-09 02:08:28,515 - INFO - Freed from C:\Users\rhain\AppData\Local\Temp: 0 B
+2025-09-09 02:08:28,516 - WARNING - Could not scan directory C:\Users\rhain\AppData\Local\Microsoft\Windows\INetCache\Content.IE5: [WinError 5] Access is denied: 'C:\\Users\\rhain\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.IE5'
+2025-09-09 02:08:28,517 - INFO - Directory is empty: C:\Users\rhain\AppData\Local\Microsoft\Windows\INetCache
+2025-09-09 02:08:28,518 - INFO - ============================================================
+2025-09-09 02:08:28,518 - INFO - CLEANUP SUMMARY
+2025-09-09 02:08:28,519 - INFO - ============================================================
+2025-09-09 02:08:28,520 - INFO - Total space freed: 422.77 MB
+2025-09-09 02:08:28,521 - INFO - Total files processed: 104
+2025-09-09 02:08:28,522 - INFO -   Successfully cleaned: 104
+2025-09-09 02:08:28,524 - INFO -   Skipped (protected/errors): 0
+2025-09-09 02:08:28,524 - INFO - Dry run mode: Yes
+2025-09-09 02:08:28,527 - INFO - Log file location: C:\Users\rhain\disk_cleanup_logs\disk_cleanup_20250909_020828.log
+2025-09-09 02:08:28,527 - INFO - NOTE: This was a dry run - no files were actually deleted
+2025-09-09 02:08:28,527 - INFO - ============================================================
+2025-09-09 02:08:28,528 - INFO - DISK CLEANUP COMPLETED SUCCESSFULLY
+2025-09-09 02:08:28,528 - INFO - ============================================================
